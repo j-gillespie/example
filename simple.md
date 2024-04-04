@@ -1,7 +1,7 @@
 This is a new file that I will use for a markdown exercise.
 
-This documentation describes how to use the _Pavel robotic
-toothbrush_.
+This documentation describes how to use the _Pavel_ robotic
+toothbrush.
 
-*Note* This toothbrush is not safe to use for children,
-adults, or pets.
+**Note** This toothbrush is safe to use for children,
+adults, and pets.
